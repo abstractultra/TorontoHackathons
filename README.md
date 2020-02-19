@@ -43,6 +43,7 @@ To contribute:
  | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
  | [New Hacks](https://ieee.utoronto.ca/#/)  | Toronto | March 7-8 | TBD |  |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications open Jan 20 |   | :white_check_mark: |
+ | [WinHacks](https://winhacks.ca/)  | Windsor | Mar 27-29 | TBD |   | :white_check_mark: |
 
 
 # April
